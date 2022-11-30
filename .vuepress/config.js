@@ -230,6 +230,7 @@ module.exports = {
         },
         width: 240,
         height: 352
+        
       }
     ],
     [
