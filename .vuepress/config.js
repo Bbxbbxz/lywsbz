@@ -120,9 +120,9 @@ module.exports = {
         text: "宣传视频",
         icon: "iconfont icon-tools",
         items: [
-          { text: "云AI超声诊断背景视频", link: "https://share.weiyun.com/xOLl26WZ" },
-          { text: "云AI操作示范视频", link: "https://share.weiyun.com/JSAIOjfJ" },
-          { text: "物料配送分析系统视频", link: "https://share.weiyun.com/iEoXVDG9" },
+          { text: "云AI超声诊断背景视频", link: "https://share.weiyun.com/uqfdXmKw" },
+          { text: "云AI操作示范视频", link: "https://share.weiyun.com/6Etd2hc1" },
+          { text: "物料配送分析系统视频", link: "https://share.weiyun.com/8s9SY8Qd" },
          
         ]
       },
