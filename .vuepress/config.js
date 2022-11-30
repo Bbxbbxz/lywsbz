@@ -127,7 +127,7 @@ module.exports = {
         ]
       },
       {
-        text: "宠物",
+        text: "宠物||她",
         icon: "iconfont icon-tools",
         items: [
           { text: "@->", link: "" },
